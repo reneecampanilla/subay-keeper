@@ -1,0 +1,36 @@
+.form-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 30em;
+  height: 18em;
+  margin-top: -9em;
+  margin-left: -15em;
+}
+
+.login-input-container {
+  width: 100%;
+}
+
+.login button {
+  margin-left: 10px;
+}
+
+.login .button-group {
+  text-align: right;
+}
+
+.login .error {
+  width: 220px;
+  font-size: 10px;
+  color: red;
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  text-align: left;
+}
+
+.welcome-message {
+  margin: 10px;
+  display: inline-block;
+}
